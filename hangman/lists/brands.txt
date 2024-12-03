@@ -1,0 +1,10 @@
+Apple
+Microsoft
+Google
+Amazon
+Facebook
+Coca-Cola
+Nike
+Samsung
+Toyota
+McDonald's
